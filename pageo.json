@@ -1,0 +1,79 @@
+{
+  "email": "sidak@gmail.com",
+  "profile": {
+    "name": "Sidak dhingra",
+    "role": "Your Role",
+    "bio": "A brief bio about yourself",
+    "email": "sidak@gmail.com",
+    "image": "https://example.com/your-image.jpg",
+    "imageName": "profile_image.jpg"
+  },
+  "socialLinks": [
+    {
+      "type": "github",
+      "href": "https://github.com/username"
+    },
+    {
+      "type": "twitter",
+      "href": "https://twitter.com/username"
+    },
+    {
+      "type": "linkedin",
+      "href": "https://linkedin.com/in/username"
+    },
+    {
+      "type": "instagram",
+      "href": "https://instagram.com/username"
+    },
+    {
+      "type": "youtube",
+      "href": "https://youtube.com/@username"
+    },
+    {
+      "type": "medium",
+      "href": "https://medium.com/@username"
+    },
+    {
+      "type": "dribbble",
+      "href": "https://dribbble.com/username"
+    },
+    {
+      "type": "behance",
+      "href": "https://behance.net/username"
+    }
+  ],
+  "gridLinks": [
+    {
+      "title": "Project Title 1",
+      "description": "A brief description of your project",
+      "image": "https://example.com/project-image-1.jpg",
+      "url": "https://example.com/project-1",
+      "layout": "grid"
+    },
+    {
+      "title": "Project Title 2",
+      "description": "A brief description of your project",
+      "image": "https://example.com/project-image-2.jpg",
+      "url": "https://example.com/project-2",
+      "layout": "grid"
+    },
+    {
+      "title": "Project Title 3",
+      "description": "A brief description of your project",
+      "image": "https://example.com/project-image-3.jpg",
+      "url": "https://example.com/project-3",
+      "layout": "grid"
+    },
+    {
+      "title": "Project Title 4",
+      "description": "A brief description of your project",
+      "image": "https://example.com/project-image-4.jpg",
+      "url": "https://example.com/project-4",
+      "layout": "grid"
+    }
+  ],
+  "settings": {
+    "layout": "list",
+    "showContactForm": true
+  }
+}
